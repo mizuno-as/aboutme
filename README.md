@@ -300,7 +300,7 @@ This is a series to talk by Ubuntu Japanese LoCo members for Ubuntu topics.
 
 This is a weekly series to introduce recipes for maximizing Ubuntu life quality. Ubuntu Japanese LoCo members take charge of the series respectively.
 
-* [Introduction for RAW Development with Darktablent (2017/06/07)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0474)
+* [Introduction for RAW Development with Darktable (2017/06/07)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0474)
 * [How to build Gyazo server (2016/03/16)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0413)
 * [RatticWeb the password manager (2016/03/09)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0412)
 * [Conky System Monitor (2015/09/30)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0391)
