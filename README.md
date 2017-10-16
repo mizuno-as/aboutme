@@ -108,7 +108,7 @@ The events are held by Ubuntu Japanese LoCo Team. For past 2 years 6 events, thi
 * [Open Source Conference 2014 Hokkaido](http://www.ospn.jp/osc2014-do)
     * presentation "Ubuntu 14.04 LTS Overview"
     * [Slides](OSC2014-do.pdf)
-    * [[https://www.youtube.com/watch?v=O2lTFF2exGM|Video]]
+    * [Video](https://www.youtube.com/watch?v=O2lTFF2exGM)
 * [Open Source Conference 2015 Hokkaido](http://www.ospn.jp/osc2015-do)
     * presentation "Snappy Ubuntu Overview"
     * [Slides](OSC2015-do.pdf)
