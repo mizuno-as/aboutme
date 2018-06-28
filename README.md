@@ -208,6 +208,8 @@ Software Design is computer information magazine of Japan. The topic is UNIX, a 
     * [May 2015 "Basic lesson of Text processing"](http://gihyo.jp/magazine/SD/archive/2015/201505)
     * [Vim & Emacs expart mook](http://gihyo.jp/book/2016/978-4-7741-8007-6)
     * [May 2016 "Ubuntu 16.04 Overview"](http://gihyo.jp/magazine/SD/archive/2016/201605)
+    * [May 2018 "Ubuntu 18.04 Overview"](http://gihyo.jp/magazine/SD/archive/2018/201805)
+    * [July 2018 "UNIX Command 20"](http://gihyo.jp/magazine/SD/archive/2018/201807)
 * As the series "Ubuntu Monthly Report"
     * [July 2010 "Construct thin client with LTSP-5 on Ubuntu"](http://gihyo.jp/magazine/SD/archive/2010/201007)
     * [August 2010 "How to use UCK"](http://gihyo.jp/magazine/SD/archive/2010/201008)
@@ -217,6 +219,7 @@ Software Design is computer information magazine of Japan. The topic is UNIX, a 
     * [November 2011 "GPG Key Sign with caff"](http://gihyo.jp/magazine/SD/archive/2011/201111)
     * [August 2012 "Package import from Debian"](http://gihyo.jp/magazine/SD/archive/2012/201208)
     * [January 2017 "How to securely manage passwords with GPG and Git"](http://gihyo.jp/magazine/SD/archive/2017/201701)
+    * [December 2017 "Use the tiled Window Manager bspwm"](http://gihyo.jp/magazine/SD/archive/2017/201712)
 
 ##### Linux 100%
 
@@ -274,6 +277,11 @@ This is Linux introductory magazine for the beginner (chiefly Windows guy).
  * [July 2017](https://www.amazon.co.jp/dp/B07218VCDZ)
  * [August 2017](https://www.amazon.co.jp/dp/B073TVJZSN)
  * [September 2017](https://www.amazon.co.jp/dp/B074NZ384C)
+ * [Novemver 2017](https://www.amazon.co.jp/dp/B075ZC8D4R)
+ * [January 2018](https://www.amazon.co.jp/dp/B07731FT58)
+ * [March 2018](https://www.amazon.co.jp/dp/B07926TFXB)
+ * [May 2018](https://www.amazon.co.jp/dp/B07B64Z7GH)
+ * [July 2018](https://www.amazon.co.jp/dp/B07CXC36NR)
 
 ##### NetWalker Guide Book
 
@@ -300,6 +308,10 @@ This is a series to talk by Ubuntu Japanese LoCo members for Ubuntu topics.
 
 This is a weekly series to introduce recipes for maximizing Ubuntu life quality. Ubuntu Japanese LoCo members take charge of the series respectively.
 
+* [How to customize the colors of terminal and desktop according to wallpaper (2018/02/21)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0509)
+* [Handling OTP from CLI (2018/02/14)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0508)
+* [Monitors Cron job failures with Healthcheck (2018/01/31)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0506)
+* [How to use fzf (2018/01/17)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0504)
 * [Introduction for RAW Development with Darktable (2017/06/07)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0474)
 * [How to build Gyazo server (2016/03/16)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0413)
 * [RatticWeb the password manager (2016/03/09)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0412)
