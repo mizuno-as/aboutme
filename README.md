@@ -282,6 +282,7 @@ This is Linux introductory magazine for the beginner (chiefly Windows guy).
  * [March 2018](https://www.amazon.co.jp/dp/B07926TFXB)
  * [May 2018](https://www.amazon.co.jp/dp/B07B64Z7GH)
  * [July 2018](https://www.amazon.co.jp/dp/B07CXC36NR)
+ * [September 2018](https://www.amazon.co.jp/dp/B07F7R8R4W)
 
 ##### NetWalker Guide Book
 
