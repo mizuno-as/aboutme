@@ -220,6 +220,7 @@ Software Design is computer information magazine of Japan. The topic is UNIX, a 
     * [August 2012 "Package import from Debian"](http://gihyo.jp/magazine/SD/archive/2012/201208)
     * [January 2017 "How to securely manage passwords with GPG and Git"](http://gihyo.jp/magazine/SD/archive/2017/201701)
     * [December 2017 "Use the tiled Window Manager bspwm"](http://gihyo.jp/magazine/SD/archive/2017/201712)
+    * [April 2019 "install kubernetes"](https://gihyo.jp/magazine/SD/archive/2019/201904)
 
 ##### Linux 100%
 
@@ -283,6 +284,9 @@ This is Linux introductory magazine for the beginner (chiefly Windows guy).
  * [May 2018](https://www.amazon.co.jp/dp/B07B64Z7GH)
  * [July 2018](https://www.amazon.co.jp/dp/B07CXC36NR)
  * [September 2018](https://www.amazon.co.jp/dp/B07F7R8R4W)
+ * [Novemver 2018](https://www.amazon.co.jp/dp/B07HNF4BYK)
+ * [January 2019](https://www.amazon.co.jp/dp/B07K22FJ3H)
+ * [March 2019](https://www.amazon.co.jp/dp/B07MHQ2W2X)
 
 ##### NetWalker Guide Book
 
@@ -309,6 +313,9 @@ This is a series to talk by Ubuntu Japanese LoCo members for Ubuntu topics.
 
 This is a weekly series to introduce recipes for maximizing Ubuntu life quality. Ubuntu Japanese LoCo members take charge of the series respectively.
 
+* [Handling photo metadata with exiftool (2019/01/16)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0553)
+* [Ubuntu Offline meeting 18.12 Report (2018/12/19)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0550)
+* [Amazon Lightsail (2018/11/28)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0547)
 * [How to customize the colors of terminal and desktop according to wallpaper (2018/02/21)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0509)
 * [Handling OTP from CLI (2018/02/14)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0508)
 * [Monitors Cron job failures with Healthcheck (2018/01/31)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0506)
