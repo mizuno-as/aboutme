@@ -51,6 +51,10 @@ The events are held by Ubuntu Japanese LoCo Team. For past 2 years 6 events, thi
 * Ubuntu Offline Meeting Tokyo 15.12
     * Presentation "Tales of Server Monitoring"
     * [Slides](ubuntu-1512.pdf)
+* Ubuntu Offline Meeting 18.12 - 18.10 Release Party
+* Ubuntu Seminar in minoh
+    * Presentation "My WSL Life - Backup of important data"
+    * [Slides](ubuntu-1907.pdf)
 
 #### Open Source Conference
 
