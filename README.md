@@ -291,6 +291,13 @@ This is Linux introductory magazine for the beginner (chiefly Windows guy).
  * [Novemver 2018](https://www.amazon.co.jp/dp/B07HNF4BYK)
  * [January 2019](https://www.amazon.co.jp/dp/B07K22FJ3H)
  * [March 2019](https://www.amazon.co.jp/dp/B07MHQ2W2X)
+ * [May 2019](https://www.amazon.co.jp/dp/B07QHHSPHW)
+ * [July 2019](https://www.amazon.co.jp/dp/B07SSGTP7W)
+ * [September 2019](https://www.amazon.co.jp/dp/B07W4F83ZY)
+ * [Novemver 2019](https://www.amazon.co.jp/dp/B07YS3JCQQ)
+ * [January 2020](https://www.amazon.co.jp/dp/B082DSHXVM)
+ * [March 2020](https://www.amazon.co.jp/dp/B084JDY2V5)
+ * [May 2020](https://www.amazon.co.jp/dp/B086V5TJH2)
 
 ##### NetWalker Guide Book
 
@@ -317,6 +324,11 @@ This is a series to talk by Ubuntu Japanese LoCo members for Ubuntu topics.
 
 This is a weekly series to introduce recipes for maximizing Ubuntu life quality. Ubuntu Japanese LoCo members take charge of the series respectively.
 
+* [SSH two-factor authentication with U2F/FIDO device on Ubuntu 20.04 LTS (2020/05/27)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0620)
+* [Build a VPN server with WireGuard (2020/04/08)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0614)
+* [Automate workflows with n8n (2020/02/19)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0607)
+* [Make the terminal a dashboard with Sampler (2020/02/05)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0605)
+* ["ripgrep" the fast and convenient grep (2019/07/24)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0579)
 * [Handling photo metadata with exiftool (2019/01/16)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0553)
 * [Ubuntu Offline meeting 18.12 Report (2018/12/19)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0550)
 * [Amazon Lightsail (2018/11/28)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0547)
