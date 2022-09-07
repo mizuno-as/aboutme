@@ -184,6 +184,8 @@ Kansai Debian Meeting is meeting of Debian that has been held every month in aro
 * [そろそろ常識? マンガでわかる「Linuxコマンド」](https://www.amazon.co.jp/dp/4863543468)
     * ![](soromanga.jpg)
     * A book that explains Linux commands in "manga and chat style" for beginners.
+* [いちばんやさしい新しいサーバーの教本](https://www.amazon.co.jp/gp/product/B09RWHZL7L)
+    * ![](ichiyasa.jpg)
 
 #### Magazines
 
@@ -308,7 +310,14 @@ This is Linux introductory magazine for the beginner (chiefly Windows guy).
  * [January 2021](https://www.amazon.co.jp/dp/B08PTMGSD6)
  * [March 2021](https://www.amazon.co.jp/dp/B08W1F8RZN)
  * [May 2021](https://www.amazon.co.jp/dp/B091YDMPBN)
-
+ * [July 2021](https://www.amazon.co.jp/dp/B096RT3GWH)
+ * [September 2021](https://www.amazon.co.jp/dp/B09BTT3RJN)
+ * [Novemver 2021](https://www.amazon.co.jp/dp/B09HTB5QXV)
+ * [January 2022](https://www.amazon.co.jp/dp/B09N3B7YWM)
+ * [March 2022](https://www.amazon.co.jp/dp/B09RSVNCVP)
+ * [May 2022](https://www.amazon.co.jp/dp/B09X99PZN5)
+ * [July 2022](https://www.amazon.co.jp/dp/B0B38KK4KY)
+ * [September 2022](https://www.amazon.co.jp/dp/B0B8MW84H4)
 
 ##### NetWalker Guide Book
 
@@ -321,6 +330,10 @@ This is most popular weekly PC magazine in Japan.
 * [Weekly ASCII Special edition 2013/08/09](http://www.amazon.co.jp/gp/product/B00DG8FT1I)
 
 #### Website
+
+##### Ubuntu Biyori
+
+* [003 Play "ELDENRING" for Windows on Steam](https://pc.watch.impress.co.jp/docs/column/ubuntu/1409524.html)
 
 ##### Ittoke! Ubuntu Dojo
 
@@ -406,3 +419,7 @@ This is a weekly series to introduce recipes for maximizing Ubuntu life quality.
 * [Build a VPN server with WireGuard (2020/04/08)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0614)
 * [SSH two-factor authentication with U2F/FIDO device on Ubuntu 20.04 LTS (2020/05/27)](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0620)
 * [How to Stack Astrophotography Images (2020/08/05)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0630)
+* [Run Ubuntu on M1 Mac with UTM](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0672)
+* [Energy saving PC life with Ryzen 5 5500U](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0711)
+* [Using Docker Desktop for Linux on Ubuntu](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0719)
+* [An easy way to assemble complex command pipelines](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0723)
