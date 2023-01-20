@@ -186,6 +186,8 @@ Kansai Debian Meeting is meeting of Debian that has been held every month in aro
     * A book that explains Linux commands in "manga and chat style" for beginners.
 * [いちばんやさしい新しいサーバーの教本](https://www.amazon.co.jp/gp/product/B09RWHZL7L)
     * ![](ichiyasa.jpg)
+* [Linuxをマスターしたい人のための実践Ubuntu](https://www.amazon.co.jp/dp/479806825X)
+    * ![](ubuntu-book.jpg)
 
 #### Magazines
 
@@ -318,6 +320,9 @@ This is Linux introductory magazine for the beginner (chiefly Windows guy).
  * [May 2022](https://www.amazon.co.jp/dp/B09X99PZN5)
  * [July 2022](https://www.amazon.co.jp/dp/B0B38KK4KY)
  * [September 2022](https://www.amazon.co.jp/dp/B0B8MW84H4)
+ * [Novemver 2022](https://www.amazon.co.jp/gp/product/B0BHCG58ZZ)
+ * [January 2023](https://www.amazon.co.jp/gp/product/B0BP6RPDWH)
+ * [March 2023]()
 
 ##### NetWalker Guide Book
 
@@ -334,6 +339,8 @@ This is most popular weekly PC magazine in Japan.
 ##### Ubuntu Biyori
 
 * [003 Play "ELDENRING" for Windows on Steam](https://pc.watch.impress.co.jp/docs/column/ubuntu/1409524.html)
+* [012 Streamline your Ubuntu CLI operations with Shortcut and Byobu](https://pc.watch.impress.co.jp/docs/column/ubuntu/1444004.html)
+* [017 Better manage digital photos with Ubuntu](https://pc.watch.impress.co.jp/docs/column/ubuntu/1463282.html)
 
 ##### Ittoke! Ubuntu Dojo
 
