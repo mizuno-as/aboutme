@@ -322,7 +322,8 @@ This is Linux introductory magazine for the beginner (chiefly Windows guy).
  * [September 2022](https://www.amazon.co.jp/dp/B0B8MW84H4)
  * [Novemver 2022](https://www.amazon.co.jp/gp/product/B0BHCG58ZZ)
  * [January 2023](https://www.amazon.co.jp/gp/product/B0BP6RPDWH)
- * [March 2023]()
+ * [March 2023](https://www.amazon.co.jp/dp/B0BTY7KZVN)
+ * [May 2023](https://www.amazon.co.jp/dp/B0C1J8QBSB)
 
 ##### NetWalker Guide Book
 
@@ -341,6 +342,8 @@ This is most popular weekly PC magazine in Japan.
 * [003 Play "ELDENRING" for Windows on Steam](https://pc.watch.impress.co.jp/docs/column/ubuntu/1409524.html)
 * [012 Streamline your Ubuntu CLI operations with Shortcut and Byobu](https://pc.watch.impress.co.jp/docs/column/ubuntu/1444004.html)
 * [017 Better manage digital photos with Ubuntu](https://pc.watch.impress.co.jp/docs/column/ubuntu/1463282.html)
+* [021 Are the virus measures necessary? Why is root invalid? Basics of the security in Ubuntu](https://pc.watch.impress.co.jp/docs/column/ubuntu/1479414.html)
+* [022 Let's enhance security of Ubuntu by the strong password and two factor authentication](https://pc.watch.impress.co.jp/docs/column/ubuntu/1483060.html)
 
 ##### Ittoke! Ubuntu Dojo
 
