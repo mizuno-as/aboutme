@@ -324,6 +324,8 @@ This is Linux introductory magazine for the beginner (chiefly Windows guy).
  * [January 2023](https://www.amazon.co.jp/gp/product/B0BP6RPDWH)
  * [March 2023](https://www.amazon.co.jp/dp/B0BTY7KZVN)
  * [May 2023](https://www.amazon.co.jp/dp/B0C1J8QBSB)
+ * [July 2023](https://www.amazon.co.jp/dp/B0C77TZ81G)
+ * [September2023](https://www.amazon.co.jp/dp/B0CCCZB1JH)
 
 ##### NetWalker Guide Book
 
@@ -433,3 +435,6 @@ This is a weekly series to introduce recipes for maximizing Ubuntu life quality.
 * [Energy saving PC life with Ryzen 5 5500U (2022/04/13)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0711)
 * [Using Docker Desktop for Linux on Ubuntu (2022/06/15)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0719)
 * [An easy way to assemble complex command pipelines (2022/07/13)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0723)
+* [Measure game frame rate with MangoHud (2023/04/26)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0760)
+* [Energy saving PC life in Alder Lake-N (2023/05/02)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0761)
+* [How to do login authentication to Ubuntu with Azure AD (2023/08/09)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0774)
