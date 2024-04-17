@@ -20,6 +20,22 @@
 
 ## What I've done
 
+### Ubuntu Wallpaper Contest
+
+I won a prize in Ubuntu wall paper contest several times.
+
+#### 23.04
+
+![23.04](wp_2304.jpg)
+
+#### 23.10
+
+![23.10](wp_2310.jpg)
+
+#### 24.04
+
+![24.04](wp_2404.jpg)
+
 ### Events
 
 #### Off-line Meetings
@@ -155,11 +171,10 @@ Kansai Debian Meeting is meeting of Debian that has been held every month in aro
         * The upstream project is release-suspended status. The patch is in "private" mode (Still maintenanced, but not published).
         * Of course, GPL allow branching and undertaking the yet another -painter project, but that patch (and GIMP source code) require experienced craftsmanship. So ,that is too much to handle for me.
 
-* [mizuno-as-wallpapers](https://launchpad.net/~mizuno-as/+archive/ppa/+packages)
+* [mizuno-as-wallpapers](https://launchpad.net/~mizuno-as/+archive/ubuntu/wallpapers)
     * This package contains the wallpapers, photographed by mizuno-as.
-    * ![](Hakodate-Orthodox-Church-3.jpg)
-    * ![](Autumn-Day.jpg)
-    * ![](Motomachi-Park.jpg)
+    * ![](afternoon_fox.jpg)
+    * ![](shooting_star.jpg)
 
 * [mizuno-as Remix](https://launchpad.net/~mizuno-as/+archive/remix)
     * This package is template for ubuntu-defaults-builder.
