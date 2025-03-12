@@ -71,6 +71,9 @@ The events are held by Ubuntu Japanese LoCo Team. For past 2 years 6 events, thi
 * Ubuntu Seminar in minoh
     * Presentation "My WSL Life - Backup of important data"
     * [Slides](ubuntu-1907.pdf)
+* Ubuntu 20th anniversary offline meeting
+    * Presentation "I'll show you how to win a wallpaper contest"
+    * [Slides](ubuntu-2404.pdf)
 
 #### Open Source Conference
 
@@ -203,6 +206,10 @@ Kansai Debian Meeting is meeting of Debian that has been held every month in aro
     * ![](ichiyasa.jpg)
 * [Linuxをマスターしたい人のための実践Ubuntu](https://www.amazon.co.jp/dp/479806825X)
     * ![](ubuntu-book.jpg)
+* [Linuxをマスターしたい人のための実践Ubuntu 第2版](https://www.amazon.co.jp/dp/4798073245)
+    * ![](ubuntu-book-2.jpg)
+* [仮想化環境の構築から運用まで Proxmox VE実践ガイド](https://www.amazon.co.jp/dp/4296207318)
+    * ![](proxmox.jpg)
 
 #### Magazines
 
@@ -372,6 +379,9 @@ This is most popular weekly PC magazine in Japan.
 * [040 CLI Editor](https://pc.watch.impress.co.jp/docs/column/ubuntu/1551316.html)
 * [044 Palworld](https://pc.watch.impress.co.jp/docs/column/ubuntu/1563920.html)
 * [048 Cockpit](https://pc.watch.impress.co.jp/docs/column/ubuntu/1576889.html)
+* [053 Free Game for Ubuntu](https://pc.watch.impress.co.jp/docs/column/ubuntu/1596353.html)
+* [055 WireGuard VPN](https://pc.watch.impress.co.jp/docs/column/ubuntu/1606110.html)
+* [065 Sway Window Manager](https://pc.watch.impress.co.jp/docs/column/ubuntu/1645237.html)
 
 ##### Ittoke! Ubuntu Dojo
 
@@ -466,3 +476,5 @@ This is a weekly series to introduce recipes for maximizing Ubuntu life quality.
 * [How to do login authentication to Ubuntu with Azure AD (2023/08/09)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0774)
 * [Vaultwarden (2023/04/03)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0807)
 * [Ubuntu Wallpaper Contest (2024/04/17)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0809)
+* [Incus 6.3 (2024/07/31)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0824)
+* [Unbound DNS Server (2024/10/16)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0834)
