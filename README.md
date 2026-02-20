@@ -382,6 +382,11 @@ This is most popular weekly PC magazine in Japan.
 * [053 Free Game for Ubuntu](https://pc.watch.impress.co.jp/docs/column/ubuntu/1596353.html)
 * [055 WireGuard VPN](https://pc.watch.impress.co.jp/docs/column/ubuntu/1606110.html)
 * [065 Sway Window Manager](https://pc.watch.impress.co.jp/docs/column/ubuntu/1645237.html)
+* [072 Let's get started with Ubuntu again in WSL](https://pc.watch.impress.co.jp/docs/column/ubuntu/2004458.html)
+* [074 Ubuntu on TENKU LUNA](https://pc.watch.impress.co.jp/docs/column/ubuntu/2018705.html)
+* [081 Running Windows 11 on a VM in Ubuntu](https://pc.watch.impress.co.jp/docs/column/ubuntu/2061369.html)
+* [082 MicroCloud](https://pc.watch.impress.co.jp/docs/column/ubuntu/2064787.html)
+* [084 Heroic Game Launcher](https://pc.watch.impress.co.jp/docs/column/ubuntu/2076427.html)
 
 ##### Ittoke! Ubuntu Dojo
 
@@ -478,3 +483,15 @@ This is a weekly series to introduce recipes for maximizing Ubuntu life quality.
 * [Ubuntu Wallpaper Contest (2024/04/17)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0809)
 * [Incus 6.3 (2024/07/31)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0824)
 * [Unbound DNS Server (2024/10/16)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0834)
+* [How to log in to Ubuntu with a Google account (2025/03/26)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0856)
+* [Use your AI assistant from your usual terminal with "Aider" (2025/05/14)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0862)
+* [Self-hosting the Wildcard DNS "nip.io" (2025/05/28)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0864)
+* [Setting Up a DHCP Server on Ubuntu (Compatible with Ubuntu 24.04 LTS) (2025/06/04)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0865)
+* [Self-host Wallabag on Ubuntu (2025/06/18)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0867)
+* [Building the Tunnel-Type Reverse Proxy Pangolin (2025/10/01)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0881)
+* [Trying out Beszel, a simple monitoring server that's easy to use (2025/12/03)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0890)
+* [Manage Reverse Proxies Efficiently with Nginx Proxy Manager (2025/12/17)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0892)
+* [Building the Object Storage "SeaweedFS”with Docker (2025/12/24)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0893)
+* [Building High-Availability Distributed Storage for Home Use with MicroCeph (2026/01/14)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0895)
+* [Customizing QMK/VIA-compatible keyboards from Ubuntu (2026/01/21)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0896)
+* [Let's try virus on-access scanning on Ubuntu (2026/02/18)](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0900)
